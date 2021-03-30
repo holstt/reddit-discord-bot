@@ -1,5 +1,5 @@
 # RedditService
-![flask-version](https://img.shields.io/badge/flask-v1.1.2-blue)****
+![flask-version](https://img.shields.io/badge/flask-v1.1.2-blue)
 
 RESTful webservice providing a convenient way to get data from reddit.  
 
