@@ -1,4 +1,4 @@
-# RedditService
+# Reddit Service
 ![flask-version](https://img.shields.io/badge/flask-v1.1.2-blue)
 
 RESTful webservice providing a convenient way to get data from reddit.  
@@ -22,3 +22,6 @@ Using reddit's API requires a reddit account.
 > - Native + Docker command
 
 ## Usage 
+
+> TODO: 
+> - Calling the service with json request 
