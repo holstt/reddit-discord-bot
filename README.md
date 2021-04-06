@@ -6,8 +6,8 @@ RESTful webservice providing a convenient way to get data from reddit.
 ## About
 
 Features include:
-- Request top X reddit posts from a specified subreddit within a given time frame.
-- Choose time frame
+- Request top X reddit posts from a specified subreddit
+- Choose time frame for posts
 - Choose "sort by" setting
 
 Example:
